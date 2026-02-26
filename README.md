@@ -45,8 +45,8 @@ https://github.com/chinmayijagadish/ArtSpace
 ## 📸 Screenshots
 
 > ![WhatsApp Image 2026-02-26 at 7 12 49 PM](https://github.com/user-attachments/assets/a7b117d8-91d7-4bb0-9697-515be551c479)
-> <img width="717" height="1600" alt="image" src="https://github.com/user-attachments/assets/3bcb1360-a0ec-4d71-8079-7cba7f4d30c4" />
-<img width="717" height="1600" alt="image" src="https://github.com/user-attachments/assets/e9892b5b-47bf-4ae5-bdc9-969b0da495e1" />
+> <img width="717" height="100" alt="image" src="https://github.com/user-attachments/assets/3bcb1360-a0ec-4d71-8079-7cba7f4d30c4" />
+<img width="717" height="100" alt="image" src="https://github.com/user-attachments/assets/e9892b5b-47bf-4ae5-bdc9-969b0da495e1" />
 
 
 ---
@@ -110,9 +110,8 @@ This project helped me understand:
 
 ## 👩‍💻 Author
 
-**Chinmayi Jagadish**
+**Chinmayi**
 
-Android Developer (Learning Phase) | Kotlin | Jetpack Compose Enthusiast
 
 ---
 
